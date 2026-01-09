@@ -1,0 +1,26 @@
+Project Report : Salary vs Experience Correlation Analysis
+
+1. Introduction
+This project analyzes the relationship between years of experience and salary using correlation analysis. The goal is to understand how professional experience impacts salary growth and present insights through a Power BI dashboard.
+
+2. Dataset Description
+The dataset contains two variables: Years of Experience and Salary (INR per year). It consists of clean, structured data suitable for statistical analysis and dashboard visualization.
+
+3. Tools & Technologies
+•	Power BI Desktop for visualization
+•	DAX for calculated measures
+•	Excel/CSV as data source
+
+4. Methodology
+Correlation analysis was performed using Pearson’s correlation coefficient. Scatter plots and trend lines were used to visually analyze the relationship between salary and experience.
+
+5. Dashboard Overview
+The Power BI dashboard includes Slicers, salary and years experience along with a scatter plot and salary growth line chart.
+
+6. Key Insights
+•	There is a strong positive correlation between salary and years of experience.
+•	Salary increases almost linearly as experience grows.
+•	Experience is a significant factor influencing salary growth.
+
+7. Conclusion
+This analysis demonstrates that years of experience strongly influence salary levels. The Power BI dashboard effectively communicates these insights and can support HR and business decision-making.
